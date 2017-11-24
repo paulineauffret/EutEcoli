@@ -1,0 +1,8 @@
+chuA.1b_[chuA]	288
+yjaA.1b_[yjaA]	211
+TspE4C2.1b_[TspE4.C2]	152
+AceK.f_[arpA]	400
+ArpAgpE.f_[arpA]	301
+trpAgpC.1_[trpA]	219
+trpBA.f_[trpA]	489
+
