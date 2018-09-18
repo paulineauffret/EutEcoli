@@ -1,6 +1,6 @@
 #!/bin/bash
 TIMESTAMP=$(date +%Y-%m-%d_%Hh%Mm%Ss)
-WORKING_DIRECTORY=/home1/scratch/pauffret/analyse_eutT_ecoli
+WORKING_DIRECTORY=~/analyse_eutT_ecoli
 FINAL=${WORKING_DIRECTORY}/finalresults
 SRC=${WORKING_DIRECTORY}/src
 SCRIPT_WGET=${SRC}/wget_genomes_ncbi.py
